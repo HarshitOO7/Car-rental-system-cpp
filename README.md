@@ -12,7 +12,7 @@
 
 ## Introduction
 
-This is a car rental system project using OOP in C++ program. This project is a console application without graphics. This project is a console application without graphics. This project is a console application without graphics.
+This is a car rental system project using OOP in C++ program. This project is a console application without graphics.
 
 ## Features
 
